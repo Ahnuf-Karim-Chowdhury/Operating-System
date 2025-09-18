@@ -140,3 +140,9 @@ int main() {
     allocator.runWorstFit();
     return 0;
 }
+
+/* 
+Enter number of memory holes: 5
+Enter memory hole sizes: 100 500 200 300 600
+Enter number of memory requests: 5
+Enter memory requests: 212 417 112 426 */
